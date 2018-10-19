@@ -1,5 +1,5 @@
 {
-  "name": "@angular/material",
+  "name": "material2-2.0.0-beta.1",
   "version": "2.0.0-beta.1",
   "description": "Angular 2 Material",
   "main": "./bundles/material.umd.js",

@@ -29,7 +29,7 @@ System.config({
   packages: {
     // Thirdparty barrels.
     'rxjs': { main: 'index' },
-    '@angular/material': {
+    'material2-2.0.0.beta.1': {
       format: 'cjs',
       main: 'material.umd.js'
     },
